@@ -17,3 +17,4 @@ The ip address for the WiFi module is 10.0.0.1.
 - Input 0 to Switch to deactivate block
 - Input 1 to Switch to activate block
 - Input 2 to Switch to pause all motor function
+- Always deactivate before end simulation
