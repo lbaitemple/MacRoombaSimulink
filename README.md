@@ -3,6 +3,8 @@
 This Simulink library is created to control iRobot Roomba create with Roo WiFi module installed.
 The ip address for the WiFi module is 10.0.0.1.
 ```
+**_Warning: This library is a beta version. Two blocks cannot work in the same model._**
+
 
 ## IR Sensors State Block
 - This block displays the state of the 6 IR range sensors located on the bumper
