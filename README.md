@@ -15,6 +15,7 @@ The ip address for the WiFi module is 10.0.0.1.
 - Alway deactivate the block before ending simulation
 
 ## Wheel Control Block
+![Wheel Control Block](https://github.com/Talisker10/MacRoombaSimulink/blob/master/fig/Screen%20Shot%202017-10-01%20at%201.17.57%20AM.png)
 - Specify linear velocity of left wheel and right wheel
 - **_RightWheel_**, **_LeftWheelVel_** are in meters/sec between [-0.5, 0.5]
 - Input 0 to **_Switch_** to deactivate block
