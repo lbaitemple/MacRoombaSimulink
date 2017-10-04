@@ -1,4 +1,4 @@
-# MacRoombaSimulink
+# Roomba Simulink Library
 ```
 This Simulink library is created to control iRobot Roomba create with Roo WiFi module installed.
 The IP address for the WiFi module is 10.0.0.1. Incorporating a real-time pacer in the Simulink model is recommended.
