@@ -23,6 +23,6 @@ The IP address for the WiFi module is 10.0.0.1. Incorporating a real-time pacer 
 - **_RightWheel_**, **_LeftWheelVel_** are in meters/sec between [-0.5, 0.5].
 - Connect input **_Control_** to output **_Control_** from the Main Switch Block.
 
-## An Example
+## Example 1
 ![Example 1](https://github.com/Talisker10/MacRoombaSimulink/blob/master/Figures/Example.png)
 In this example, the velocity inputs of the Wheel is manipulated so the Roomba will only rotate. Users can input velocity to the rigth and the left wheels independently. The sensors' state is also displayed.
