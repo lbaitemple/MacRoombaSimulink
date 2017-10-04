@@ -6,7 +6,7 @@ The ip address for the WiFi module is 10.0.0.1.
 
 ## Main Switch Block
 ![Main Switch Block](https://github.com/Talisker10/MacRoombaSimulink/blob/master/Figures/Main%20Switch.png)
-- This block establishes the link between Simulink and Roomba, and it control the read/write sequence to Roomba.
+- This block establishes the link between Simulink and Roomba, and it controls the read/write sequence to Roomba.
 - Input 1 will turn on the switch; input 0 will turn off the switch.
 - Connect the output **_Control_** to Input **_Control_** on anyother blocks.
 
